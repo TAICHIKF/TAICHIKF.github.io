@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "TAICHIFEI"
+title: "TAICHIKF"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 Bio
 ======
 
-KONGFEI received the M.S. degree in biomedical engineering from Tsinghua University, China, in 2023.
+KONGFEI received the M.Sc degree in biomedical engineering from Tsinghua University, China, in 2023.
 
 
 Research Interests

@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "TAICHIFEI"
+name                     : &name "TAICHIKF"
 description              : &description "personal description"
 url                      : https://TAICHIKF.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "TAICHIFEI"
+  name             : "TAICHIKF"
   avatar           : "profile.png"
   bio              : "Tsinghua University"
   location         : "Location"
