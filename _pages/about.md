@@ -16,3 +16,5 @@ KONGFEI received the M.Sc degree in biomedical engineering from Tsinghua Univers
 
 Research Interests
 ======
+
+AI for healthcare. Multi-modal/federated learning, generative models, with applications in healthcare.

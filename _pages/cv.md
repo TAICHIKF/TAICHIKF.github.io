@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software engineering, Yunnan University, 2016
-* M.Sc in Biomedical engineering, Tsinghua University, 2020
+* B.S. in Software Engineering, Yunnan University, 2016
+* M.Sc in Biomedical Engineering, Tsinghua University, 2020
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 <!-- 
