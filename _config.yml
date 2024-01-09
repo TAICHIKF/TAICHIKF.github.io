@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Fei Kong"
 description              : &description "personal description"
-url                      : https://feikong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://TAICHIKF.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "feikong/feikong.github.io"
+repository               : "TAICHIKF/TAICHIKF.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "feikong"
+  name             : "TAICHIKF"
   avatar           : "wechat.jpg"
   bio              : "Tsinghua University"
   location         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "feikong"
+  github           : "TAICHIKF"
   google_plus      :
   keybase          :
   instagram        :
