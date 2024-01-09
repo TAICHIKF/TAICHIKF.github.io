@@ -11,7 +11,7 @@ redirect_from:
 Bio
 ======
 
-KONG Fei received the M.Sc degree in biomedical engineering from Tsinghua University, China, in 2023.
+KONG Fei received the M.Sc degree in biomedical engineering from Tsinghua University, China, in 2023. 
 
 
 Research Interests
